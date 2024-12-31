@@ -1,0 +1,19 @@
+instalar por extension
+
+simple react snippets
+
+Validacion de Formulario por parte de React
+# npm i react-hook-form
+# npm i axios
+
+# NPM I SOONNER -> la parte del sooner es para determinar los errores mostrados como tambien medir
+las repuestas brindads por parte del serviddor.
+
+#npm i @heroicons/react para la parte de la instalacion de logos de tailwind demostrados enteriormente 
+
+
+# npm i @tanstack/react-query , esto para no hacer uso del useEffect como para hacer consutla del JWT
+ npm i @tanstack/react/query/devtools
+
+Swtich de component
+ npm install @headlessui/react
